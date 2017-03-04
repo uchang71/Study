@@ -1,0 +1,20 @@
+1. github 설치
+2. github for windows 설치
+3. github for windows 로컬에서 프로젝트 생성
+   - 왼쪽 상단 + 클릭 후 원하는 경로에 프로젝트 생성
+4. github 온라인 저장소와 동기화 시키기
+   - 오른쪽 상단 punlish를 클릭 title, description을 적고 확인
+5. github 프로젝트 동기화
+   - 오른쪽 상단의 Sync를 누르면 온라인 저장소와 동기화됨
+6. 커밋 결과 되돌리기(Revert)
+   - Revert 누르면 이전상태로 돌아감
+7. 동기화에서 특정 폴더나 파일 제외하기
+   -gitignore 텍스트 파일 생성 내용에 ex) index.html, js/ 라고 적어두면 index.html파일과 js/폴더와 내부의 모든 파일들이 안보임.
+8. 다른 github 사용자와 collaboration하기
+   - 온라인 저장소에 Settings를 들어가서 Collaborations 클릭 
+   - Collaborators에서 다른사람의 아이디를 추가
+   - Collaborators로 초대받은 사람은 E-mail을 하나 받음. 메일 내에 온라인 저장소로 접근할 수 있는 링크가 포함 되어 있음.
+   - 새 포르젝트에 동참하려면 초대받은 github 프로젝트 온라인 저장소에서 프로젝트 파일을 복제해야 한다.
+   - github for windows를 실행 후 왼쪽위 + 클릭 Clone 선택.
+   - 복제가능한 프로젝트가 나타나면 초대받은 프로젝트 저장소 이름을 더블클릭.
+   - 복제한 프로젝트 파일을 저장할 로컬 저장소 위치를 지정.
