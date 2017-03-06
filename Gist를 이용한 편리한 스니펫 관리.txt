@@ -1,0 +1,19 @@
+Gist는 자주 사용하는 코드 조각을 버전 관리할 수 있는 도구
+
+sublimeText3에서 gist 사용하는 방법
+
+설치방법
+
+ctrl + shift + p를 눌러 package install에서 gist를 찾아 설치
+
+preferences -> package settings -> gist -> setting default, setting user 둘다열고 default에서 token만 가져와서 복사 붙여넣기
+
+자신의 github홈페이지에 들어가 settings -> personal access tokens에 들어가 description 작성후
+체크란에 gist체크 -> 확인
+
+만들어진 토큰을 가지고 sublimetext3의 setting-user token에 복사 붙여넣기
+
+
+사용법
+
+ctrl -> shift -> p => gist 목록에서 찾아서 사용하면 됨.
